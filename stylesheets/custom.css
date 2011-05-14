@@ -1,13 +1,23 @@
 #main{
-	background-color: #f8f8f8;
+	background-color: #ececec;
 	margin-top: 80px;
 	padding-top: 10px;
 }
 
+tbody tr{
+	border-width: 1px;
+	border-top: 12px solid lime;
+}
 
 
+.section-title{
+	min-height: 70px;
+}
 
-
+hr.thin{
+	margin-bottom:7px;
+	margin-top:7px;
+}
 
 /* @group list formating */
 
