@@ -1,0 +1,43 @@
+#main{
+	background-color: #f8f8f8;
+	margin-top: 80px;
+	padding-top: 10px;
+}
+
+
+
+
+
+
+/* @group list formating */
+
+.horizontal li{
+	display:inline;
+}
+
+.horizontal li a{
+	padding:0.2em 1em;
+}
+
+.plainList{
+	list-style-type: none; 
+}
+
+
+/* @end */
+
+
+
+
+
+/* @group titleArea */
+
+
+
+#title h1{
+	font-size: 6em;
+	color: #333;
+}
+
+
+/* @end */
