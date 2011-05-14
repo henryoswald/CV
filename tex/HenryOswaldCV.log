@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2011.4.18)  14 MAY 2011 17:20
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2011.4.18)  14 MAY 2011 18:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1033,7 +1033,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 70--71
+Underfull \hbox (badness 10000) in paragraph at lines 67--68
 
  []
 
@@ -1041,11 +1041,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
 ] (./HenryOswaldCV.aux) ) 
 Here is how much of TeX's memory you used:
- 13805 strings out of 494542
- 232423 string characters out of 3157455
- 313310 words of memory out of 3000000
- 16805 multiletter control sequences out of 15000+200000
- 8849 words of font info for 39 fonts, out of 3000000 for 9000
+ 13809 strings out of 494542
+ 232514 string characters out of 3157455
+ 314414 words of memory out of 3000000
+ 16807 multiletter control sequences out of 15000+200000
+ 8857 words of font info for 40 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
  38i,11n,67p,796b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
 
