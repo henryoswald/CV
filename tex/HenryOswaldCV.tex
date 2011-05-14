@@ -1,0 +1,57 @@
+%-----------------------------------------
+% Michael Wright
+% Resumé
+%
+% URL: http://github.com/mdwrigh2/resume
+% This document is covered under the Creative Commons Attribution 3.0 Unported License
+%-----------------------------------------
+
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\documentclass[11pt,letterpaper,final]{moderncv}
+\usepackage{fontspec}
+\moderncvtheme[darkred]{classic}
+
+% DOCUMENT LAYOUT
+\usepackage[scale=0.85]{geometry}
+\setlength{\hintscolumnwidth}{2cm}
+\AtBeginDocument{\recomputelengths}
+% FONTS
+\usepackage[utf8]{inputenc}
+\defaultfontfeatures{Mapping=tex-text} % converts LaTeX specials (``quotes'' --- dashes etc.) to unicode
+
+% Remove % to set to different fonts
+%\setromanfont [Ligatures={Common},Numbers={OldStyle}]{Adobe Caslon Pro}
+%\setmonofont[Scale=0.8]{Monaco} 
+
+% ---- CUSTOM AMPERSAND
+\newcommand{\amper}{{\fontspec[Scale=.95]{Adobe Caslon Pro}\selectfont\itshape\&}}
+
+
+
+% Personal Inofrmation
+\firstname{Henry}
+\familyname{Oswald}
+\mobile{07581 402 522}
+\email{henry.oswald@gmail.com}
+\homepage{henryoswald.me}
+
+\title{Henry Oswald's Resume}
+
+\nopagenumbers{}
+
+\begin{document}
+
+\maketitle
+\section{Objective} 
+	To work in motivated teams building elegant solutions to relivant while continuing to expand my knowledge and skills 
+
+\section{Education}
+  \cvline{10-11}{MSc Information Systems Sheffield University (73.25\%)}
+  \cvline{Relevant Modules:}{Advanced Java, Java E-Commerce, Inteligent Web, Designing Usable Websites, Database Design, Network Artictetures}
+
+
+
+
+\end{document}
