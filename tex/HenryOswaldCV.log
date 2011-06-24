@@ -1,8 +1,8 @@
-This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2011.4.18)  1 JUN 2011 18:18
+This is XeTeX, Version 3.1415926-2.2-0.9997.4 (TeX Live 2010) (format=xelatex 2011.3.5)  24 JUN 2011 15:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**HenryOswaldCV.tex
+**HenryOswaldCV
 (./HenryOswaldCV.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
@@ -1052,11 +1052,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--72
 ] (./HenryOswaldCV.aux) ) 
 Here is how much of TeX's memory you used:
  13809 strings out of 494542
- 232514 string characters out of 3157455
+ 232514 string characters out of 3157456
  316414 words of memory out of 3000000
  16807 multiletter control sequences out of 15000+200000
  8857 words of font info for 40 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 38i,11n,67p,796b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,67p,792b,326s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on HenryOswaldCV.pdf (1 page).
